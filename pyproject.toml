@@ -9,6 +9,7 @@ license = "MIT"
 python = "^3.10"
 pandas = "^1.4.2"
 jupyterlab = "^3.3.4"
+matplotlib = "^3.5.1"
 
 [tool.poetry.dev-dependencies]
 blackcellmagic = "^0.0.3"
